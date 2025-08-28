@@ -1,60 +1,79 @@
-# 👋 Xin chào! Mình là Trần Võ Hải Đăng
+<h1 align="center">Hi there 👋, I'm Tran Vo Hai Dang</h1>
 
-🎓 Sinh viên ngành Kỹ thuật Máy tính tại Trường Đại học Bách Khoa TP.HCM - HCMUT  
-💻 Định hướng chuyên sâu: **RTL Design & Kiến trúc máy tính**
-
----
-
-## 🧠 Giới thiệu bản thân
-
-Tôi đam mê thiết kế vi mạch và kiến trúc hệ thống máy tính. Luôn mong muốn được nghiên cứu, khám phá và xây dựng các hệ thống phần cứng hiệu quả, tối ưu. Tôi hiện đang tập trung vào việc nâng cao kiến thức và kỹ năng trong lĩnh vực thiết kế RTL (Register Transfer Level), vi xử lý, và hệ thống nhúng.
+<p align="center">
+🎓 Computer Engineering Student @ <strong>HCMUT</strong>  <br>
+🔧 RTL Design & Computer Architecture Enthusiast  <br>
+💡 Passionate about building efficient hardware for future computation.
+</p>
 
 ---
 
-## 👨‍💻 Kỹ năng kỹ thuật
+## 🧠 About Me
 
-### 🧾 Ngôn ngữ lập trình:
-- C, C++
-- Verilog, SystemVerilog
-- Assembly
+As a Computer Engineering student at Ho Chi Minh City University of Technology (HCMUT), I specialize in **RTL Design** and **Computer Architecture**. I’m particularly passionate about hardware-software co-design, performance acceleration, and embedded systems.
 
-### 🛠️ Công cụ & Phần mềm:
-- Vivado
-- Altium Designer
-- Proteus
-- PSpice
-- Visual Studio Code
-
-### 📂 Bằng cấp:
-- IELTS 6.0
-- MOS PowerPoint
-- MOS Excel
-- Altium Basic Certificate
+My goal is to optimize and build computing systems from the ground up — from logic gates to high-level architectural frameworks.
 
 ---
 
-## 🚀 Kỹ năng chuyên môn
+## 🧰 Languages & Tools
 
-- ✅ Thiết kế mạch từ schematic đến PCB
-- ✅ Thiết kế các giao thức truyền thông (ví dụ: UART, SPI, ...) bằng Verilog
-- ✅ Nắm vững kiến thức cơ bản về Hệ điều hành Linux
-- ✅ Thành thạo lập trình hướng đối tượng (OOP) bằng C++
-- ✅ Nghiên cứu các kiến trúc tăng tốc phần cứng (ví dụ: Eyeriss)
-- ✅ Kiến thức chuyên sâu về kiến trúc máy tính: MIPS, RISC-V, ARM
-- ✅ Hiểu biết chuyên sâu về các thành phần trong hệ thống máy tính:
-  - Cache
-  - RAM
-  - CPU
-  - Thanh ghi (Register)
+### 🖥️ Languages:
 
----
+- `C`, `C++`
+- `Verilog`, `SystemVerilog`
+- `Assembly`
 
-## 📫 Thông tin liên hệ
+### 🔧 Tools & IDEs:
 
-- 📘 Facebook: [https://www.facebook.com/tran.ang.245886](https://www.facebook.com/tran.ang.245886)
-- 📧 Email: tranvohaidang.0306@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/đăng-trần-70b303381](https://www.linkedin.com/in/đăng-trần-70b303381)
+- Vivado  
+- Altium Designer  
+- Proteus  
+- PSpice  
+- Visual Studio Code  
 
 ---
 
-> 🌱 Mình luôn háo hức học hỏi thêm về kiến trúc hệ thống, thiết kế phần cứng, và các công nghệ lập trình mới. Nếu bạn có cùng đam mê, hãy kết nối với mình nhé!
+## 📑 Certifications
+
+- IELTS 6.0  
+- Microsoft Office Specialist: PowerPoint & Excel  
+- Altium Basic Certificate  
+
+---
+
+## 🔍 Technical Skills
+
+- 🛠 Circuit design workflow: from schematic to PCB layout  
+- 🧩 Implementation of standard protocols (e.g., UART, SPI) in Verilog  
+- 🐧 Working knowledge of Linux environments  
+- 🧠 Solid grasp of Object-Oriented Programming in C++  
+- ⚙️ Research experience in hardware acceleration architectures (e.g., Eyeriss)  
+- 🏗 Detailed understanding of computer architectures such as MIPS, RISC-V, ARM  
+- 🧬 In-depth knowledge of core hardware components: `Cache`, `RAM`, `CPU`, `Registers`  
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+
+<a href="https://www.facebook.com/tran.ang.245886" target="_blank">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="mailto:tranvohaidang.0306@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/%C4%91%E1%83%83ng-tr%E1%BA%A7n-70b303381/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  🚀 Always learning, always building.
+</p>

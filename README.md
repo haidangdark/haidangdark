@@ -12,7 +12,7 @@
   <a href="https://github.com/haidangdark">
     <img src="https://komarev.com/ghpvc/?username=haidangdark&label=Profile+Views&color=00599C&style=flat-square" alt="profile views" />
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/](https://www.linkedin.com/in/%C4%91%C4%83ng-tr%E1%BA%A7n-70b303381/">
+  <a href="https://www.linkedin.com/in/dangtranpd/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:tranvohaidang.6836@gmail.com">

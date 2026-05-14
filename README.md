@@ -1,79 +1,89 @@
-<h1 align="center">Hi there 👋, I'm Tran Vo Hai Dang</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tran%20Vo%20Hai%20Dang&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physical%20Design%20%7C%20RTL%20Design%20%7C%20ASIC%20%26%20SoC&descAlignY=60&descSize=18" />
+</p>
 
 <p align="center">
-🎓 Computer Engineering Student @ <strong>HCMUT</strong>  <br>
-🔧 RTL Design & Computer Architecture Enthusiast  <br>
-💡 Passionate about building efficient hardware for future computation.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=650&lines=ASIC+Physical+Design+Intern+%F0%9F%94%A7;RTL+%2F+SoC+Developer+%F0%9F%94%AC;Computer+Engineering+Senior+%F0%9F%8E%93;Conference+Paper+Author+%F0%9F%93%84" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/haidangdark">
+    <img src="https://komarev.com/ghpvc/?username=haidangdark&label=Profile+Views&color=00599C&style=flat-square" alt="profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-As a Computer Engineering student at Ho Chi Minh City University of Technology (HCMUT), I specialize in **RTL Design** and **Computer Architecture**. I’m particularly passionate about hardware-software co-design, performance acceleration, and embedded systems.
+I am a highly-driven Computer Engineering senior at Ho Chi Minh City University of Technology (HCMUT), passionate about **ASIC Physical Design** and **Digital Logic Architecture**. My core objective is to drive end-to-end design flows and build highly efficient, secure hardware solutions.
 
-My goal is to optimize and build computing systems from the ground up — from logic gates to high-level architectural frameworks.
-
----
-
-## 🧰 Languages & Tools
-
-### 🖥️ Languages:
-
-- `C`, `C++`
-- `Verilog`, `SystemVerilog`
-- `Assembly`
-
-### 🔧 Tools & IDEs:
-
-- Vivado  
-- Altium Designer  
-- Proteus  
-- PSpice  
-- Visual Studio Code  
+- 🎓 **Education:** Senior at HCMUT | GPA: 8.85/10.0 (3.7/4.0)
+- 🎯 **Target Roles:** Physical Design Intern | RTL Design Engineer
+- 🔭 **Current Focus:** Advanced SoC Integration, ASIC Design Flow (RTL-to-GDSII), Low-power Design
+- 📝 **Publications:** Co-authored **2 Papers** accepted at **IAAA'2026** (Focus: UAV 3D Geolocation & FPGA Acceleration for YOLOv8)
 
 ---
 
-## 📑 Certifications
+## 🏆 Certifications & Achievements
 
-- IELTS 6.0  
-- Microsoft Office Specialist: PowerPoint & Excel  
-- Altium Basic Certificate  
-
----
-
-## 🔍 Technical Skills
-
-- 🛠 Circuit design workflow: from schematic to PCB layout  
-- 🧩 Implementation of standard protocols (e.g., UART, SPI) in Verilog  
-- 🐧 Working knowledge of Linux environments  
-- 🧠 Solid grasp of Object-Oriented Programming in C++  
-- ⚙️ Research experience in hardware acceleration architectures (e.g., Eyeriss)  
-- 🏗 Detailed understanding of computer architectures such as MIPS, RISC-V, ARM  
-- 🧬 In-depth knowledge of core hardware components: `Cache`, `RAM`, `CPU`, `Registers`  
+- **ICTC Training Program:** End-to-end Physical Design using Cadence Innovus
+- **English Proficiency:** IELTS 6.0
+- **Technical Certifications:** Altium Designer (Schematic & PCB Layout) | Microsoft Office Specialist (PowerPoint & Excel)
 
 ---
 
-## 📬 Connect with Me
+## 🛠️ Tech Stack & Methodologies
 
-<p align="left">
-
-<a href="https://www.facebook.com/tran.ang.245886" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="mailto:tranvohaidang.0306@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/%C4%91%E1%83%83ng-tr%E1%BA%A7n-70b303381/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Physical_Design-1a1a2e?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLSI%20%2F%20SoC-2c5364?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Verilog-B7171D?style=for-the-badge&logo=v&logoColor=white" />
+  <img src="https://img.shields.io/badge/SystemVerilog-7a7fc4?style=for-the-badge&logo=v&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2F%2BC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cadence_Innovus-E31837?style=for-the-badge&logo=cadence&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenLane-00599C?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-00C7B7?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Altium_Designer-A5A4A5?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Role/Tech |
+|---------|-------------|-----------|
+| **[RV64M Custom Core](https://github.com/haidangdark/RV64M-BoothMultiplier-NonRestoringDivider)** | RV64M core with Booth Multiplier/Divider. Full ASIC flow (Floorplan to GDSII). | *Verilog, Innovus* |
+| **[CRYPTO SoC (BAT-LAB69)](https://github.com/BAT-LAB69/CRYPTO_SOC)** | RTL architecture for SHAKE128 & Keccak cryptographic accelerators in a Smart City SoC. | *Verilog, Synthesis* |
+| **[Crystal-Kyber IP (AXI)](https://github.com/haidangdark/Crystal-kyber-512-768-1024-Wrap-AXI-IP)** | Post-Quantum Cryptography IP (512/768/1024) with AXI4 wrappers for Root of Trust. | *SystemVerilog, AXI* |
+| **[TRNG for RISC-V](https://github.com/haidangdark/True-Random-Number-Generator-for-RISCV---PicoRV32-FINAL)** | Hardware TRNG IP integrated into PicoRV32 SoC. OpenLane flow to final GDSII. | *Verilog, OpenLane, C* |
+| **[RISC-V Architectures](https://github.com/haidangdark/RISCV-SingleCycle-MultiCycle-PipeLined-DivideUnsigned)** | Implementation of Single-Cycle, Multi-Cycle, and Pipelined RISC-V cores. | *Verilog* |
+
+---
+
+### 📈 GitHub Analytics
+
 <p align="center">
-  🚀 Always learning, always building.
+  <a href="https://github.com/haidangdark">
+    <img src="https://github-readme-stats.vercel.app/api?username=haidangdark&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+  </a>
+  <a href="https://github.com/haidangdark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidangdark&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="160" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 </p>

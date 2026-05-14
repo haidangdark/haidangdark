@@ -1,8 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00599C,100:00C7B7&height=160&section=header&text=Tran%20Vo%20Hai%20Dang&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+</p>
 
-# ⚡ Tran Vo Hai Dang 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=%3E_+Target:+ASIC+Physical+Design+Intern;%3E_+RTL+%2F+SoC+Developer;%3E_+Computer+Engineering+Senior;%3E_+Hardware+%26+Open-Source+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=%3E_+Target:+ASIC+Physical+Design+Intern;%3E_+RTL+%2F+SoC+Developer;%3E_+Computer+Engineering+Senior;%3E_+Hardware+%26+Open-Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/haidangdark">
@@ -16,22 +20,20 @@
   </a>
 </p>
 
-</div>
-
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a highly-driven Computer Engineering senior at Ho Chi Minh City University of Technology (HCMUT), passionate about **ASIC Physical Design** and **Digital Logic Architecture**. My core objective is to drive end-to-end design flows and build highly efficient, secure hardware solutions.
 
-- 🎓 **Education:** Senior at HCMUT | GPA: 8.85/10.0 (3.7/4.0)
-- 🎯 **Target Roles:** Physical Design Intern | RTL Design Engineer
-- 🔭 **Current Focus:** Advanced SoC Integration, ASIC Design Flow (RTL-to-GDSII), Low-power Design
-- 📝 **Publications:** Co-authored **2 Papers** accepted at **IAAA'2026** (Focus: UAV 3D Geolocation & FPGA Acceleration for YOLOv8)
+- **Education:** Senior at HCMUT | GPA: 8.85/10.0 (3.7/4.0)
+- **Target Roles:** Physical Design Intern | RTL Design Engineer
+- **Current Focus:** Advanced SoC Integration, ASIC Design Flow (RTL-to-GDSII), Low-power Design
+- **Publications:** Co-authored **2 Papers** accepted at **IAAA'2026** (Focus: UAV 3D Geolocation & FPGA Acceleration for YOLOv8)
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
 - **ICTC Training Program:** End-to-end Physical Design using Cadence Innovus
 - **English Proficiency:** IELTS 6.0
@@ -39,7 +41,7 @@ I am a highly-driven Computer Engineering senior at Ho Chi Minh City University 
 
 ---
 
-## 🛠️ Tech Stack & Methodologies
+## Tech Stack & Methodologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Physical_Design-1a1a2e?style=for-the-badge&logo=intel&logoColor=white" />
@@ -59,7 +61,7 @@ I am a highly-driven Computer Engineering senior at Ho Chi Minh City University 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Role/Tech |
 |---------|-------------|-----------|
@@ -71,13 +73,17 @@ I am a highly-driven Computer Engineering senior at Ho Chi Minh City University 
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/haidangdark">
-    <img src="https://github-readme-stats.vercel.app/api?username=haidangdark&show_icons=true&theme=transparent&hide_border=true&title_color=00C7B7&text_color=ffffff&icon_color=00C7B7&bg_color=0d1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=haidangdark&show_icons=false&theme=transparent&hide_border=true&title_color=00C7B7&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/haidangdark">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidangdark&layout=compact&theme=transparent&hide_border=true&title_color=00C7B7&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C7B7,100:00599C&height=100&section=footer" />
 </p>

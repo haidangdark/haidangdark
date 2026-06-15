@@ -26,7 +26,7 @@
 
 I am a highly-driven Computer Engineering senior at Ho Chi Minh City University of Technology (HCMUT), passionate about **ASIC Physical Design** and **Digital Logic Architecture**. My core objective is to drive end-to-end design flows and build highly efficient SOC system.
 
-- **Education:** Undergraduate at HCMUT | GPA: 8.85/10.0 (3.7/4.0)
+- **Education:** Undergraduate at HCMUT | GPA: 8.85/10.0 (3.8/4.0)
 - **Target Roles:** Physical Design Engineer | RTL Design Engineer
 - **Current Focus:** Advanced SoC Integration, ASIC Design Flow (RTL-to-GDSII), Low-power Design
 - **Publications:** Co-authored **2 Papers** accepted at **IAAA'2026** (Focus: UAV 3D Geolocation & FPGA Acceleration for YOLOv8)

@@ -59,19 +59,6 @@ I am a highly-driven Computer Engineering senior at Ho Chi Minh City University 
   <img src="https://img.shields.io/badge/Altium_Designer-A5A4A5?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
 </p>
 
----
-
-## Featured Projects
-
-| Project | Description | Role/Tech |
-|---------|-------------|-----------|
-| **[RV64M Custom Core](https://github.com/haidangdark/RV64M-BoothMultiplier-NonRestoringDivider)** | RV64M core with Booth Multiplier/Divider. Full ASIC flow (Floorplan to GDSII). | *Verilog, Innovus* |
-| **[CRYPTO SoC (BAT-LAB69)](https://github.com/BAT-LAB69/CRYPTO_SOC)** | RTL architecture for SHAKE128 & Keccak cryptographic accelerators in a Smart City SoC. | *Verilog, Synthesis* |
-| **[Crystal-Kyber IP (AXI)](https://github.com/haidangdark/Crystal-kyber-512-768-1024-Wrap-AXI-IP)** | Post-Quantum Cryptography IP (512/768/1024) with AXI4 wrappers for Root of Trust. | *SystemVerilog, AXI* |
-| **[TRNG for RISC-V](https://github.com/haidangdark/True-Random-Number-Generator-for-RISCV---PicoRV32-FINAL)** | Hardware TRNG IP integrated into PicoRV32 SoC. OpenLane flow to final GDSII. | *Verilog, OpenLane, C* |
-| **[RISC-V Architectures](https://github.com/haidangdark/RISCV-SingleCycle-MultiCycle-PipeLined-DivideUnsigned)** | Implementation of Single-Cycle, Multi-Cycle, and Pipelined RISC-V cores. | *Verilog* |
-
----
 
 
 <p align="center">
